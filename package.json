@@ -1,0 +1,24 @@
+{
+    "name": "Broeder en Co",
+    "version": "1.0.0",
+    "description": "Broeder en Co official website",
+    "main": "index.cjs",
+    "scripts": {
+      "build": "npm run hugo:build",
+      "clean": "npm run hugo:clean",
+      "serve": "npm run hugo:serve",
+      "hugo:build": "hugo -d build --minify",
+      "hugo:serve": "hugo server",
+      "hugo:clean": "rm -rf build resources public"
+    },
+    "author": "Broeder en Co",
+    "license": "MIT",
+    "devDependencies": {
+      "hugo-extended": "^0.87.0",
+      "autoprefixer": "^10.2.6",
+      "postcss": "^8.3.2",
+      "postcss-cli": "^8.3.1",
+      "postcss-import": "^14.0.2",
+      "postcss-purgecss": "^2.0.3"
+    }
+  }
