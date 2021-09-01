@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Bier website'
+theme = "mytheme"
+relativeURLs = true
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 100
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 120
+
+    [[menu.main]]
+      identifier = "Test"
+      name = "Test"
+      url = "/Test/"
+      weight = 140
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
