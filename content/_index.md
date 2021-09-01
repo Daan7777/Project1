@@ -1,5 +1,5 @@
 ---
-title: "This is a title"
+title: "Home"
 recentposts: 10
 ---
 
