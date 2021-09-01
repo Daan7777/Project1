@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Een website'
+title = 'The website'
 theme = "mytheme"
 relativeURLs = true
 [menu]
