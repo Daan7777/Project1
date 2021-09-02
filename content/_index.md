@@ -1,6 +1,6 @@
 ---
-title: "Home"
+title: "NXS-Networks: Bier"
 recentposts: 10
 ---
 
-Dit is mijn website.
+Bier Netwerk
