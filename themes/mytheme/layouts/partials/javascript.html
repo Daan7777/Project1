@@ -1,4 +1,7 @@
-<script src="js/jquery.js"></script>
-<script src="js/boostrap.min.js"></script>
-<script src="js/propper.min.js"></script>
-<script src="js/scripts.js"></script>
+{{ $jquery := resources.Get "js/jquery.min.js" }}
+{{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+{{ $scripts := resources.Get "js/scripts.js" }}
+
+<script src="{{ $jquery.RelPermalink }}"></script>
+<script src="{{ $bootstrap.RelPermalink }}"></script>
+<script src="{{ $scripts.RelPermalink }}"></script>
