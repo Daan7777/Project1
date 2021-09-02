@@ -1,16 +1,17 @@
-<nav class="navbar navbar-expand-lg navbar-light ">
-  <div class="container"><a href="/" class="navbar-brand text-uppercase font-weight-bold">Transparent Nav</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+< <nav class="navbar navbar-expand-lg fixed-top py-3">
+  <div class="container"><a href="/" class=""></a>
+    <a href="/"></a> <img alt="NXS Networks" src="https://nxs-networks.com/images/full/nxs-networks-white.webp"  width="111px" height="36px"> 
+      <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         {{ $currentPage := . }}
-          <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
-          <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">About</a></li>
-          <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
-          <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Portfolio</a></li>
-          <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Contact</a></li>
+        <li class="nav-item"><a href="/about" class="nav-link text-uppercase font-weight-bold">Home</a></li>
+          <li class="nav-item"><a href="/about" class="nav-link text-uppercase font-weight-bold">Over ons</a></li>
+          <li class="nav-item"><a href="/posts" class="nav-link text-uppercase font-weight-bold">Posts</a></li>
+          <li class="nav-item"><a href="/test" class="nav-link text-uppercase font-weight-bold">Test</a></li>
+        </ul>
       </ul>
     </div>
   </nav>
