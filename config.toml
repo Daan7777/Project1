@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Bier website'
 theme = "mytheme"
 relativeURLs = true
+
+[params]
+favicon                      = "/img/favicon.ico"  
+
 [menu]
   [[menu.main]]
     identifier = "about"
