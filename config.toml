@@ -20,6 +20,12 @@ favicon                      = "/img/favicon.ico"
     url = "/posts/"
     weight = 120
 
+      [[menu.main]]
+    identifier = "photos"
+    name = "Photos"
+    url = "/photos/"
+    weight = 130
+
     [[menu.main]]
       identifier = "Test"
       name = "Test"

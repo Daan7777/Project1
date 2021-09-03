@@ -92,3 +92,30 @@ body {
 .block {
     display: block;
 }
+
+// Stolen ;)
+.header {
+    color: #fff;
+}
+
+.bg-cover {
+    background-size: cover;
+}
+
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+
+.header-overlay {
+    background: linear-gradient(
+-160deg
+,rgba(34,146,209,.8),rgba(34,146,209,.8),#2292d1 70%);
+}
+
+.pb-6, .py-6 {
+    padding-bottom: 3.5rem!important;
+}
+
+pt-6, .py-6 {
+    padding-top: 3.5rem!important;
+}
