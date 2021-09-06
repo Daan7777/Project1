@@ -1,9 +1,11 @@
 ---
 title: "Amstel"
 date: "1870-06-11"
-draft: false
-tags: ["five"]
+description: "Amstel Bier"
 ---
+
+Amsterdam, Noord-Holland
+
 Amstel is een biermerk van Heineken. De brouwerij werd gesticht in 1870 aan de Mauritskade te Amsterdam als Beiersch-Bierbrouwerij De Amstel. De bieren van Amstel worden tegenwoordig gebrouwen in de brouwerijen van Heineken in Zoeterwoude, 's-Hertogenbosch en Wijlre.
 Start
 

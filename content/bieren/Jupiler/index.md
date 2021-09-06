@@ -1,8 +1,7 @@
 ---
 title: "Jupiler"
 date: "1953-01-01"
-draft: false
-tags: ["four"]
+description: "Jupiler bier"
 ---
 
 Jupiler is een Belgisch pilsbier met een marktaandeel van zo'n 40% (2019) in het eigen land. Het bier wordt gebrouwen door brouwerij Piedbœuf (onderdeel van Anheuser-Busch InBev) in het plaatsje Jupille-sur-Meuse, een deelgemeente van Luik. Het complex ligt aan beide zijden van de spoorlijn Maastricht-Luik.

@@ -5,7 +5,7 @@ theme = "mytheme"
 relativeURLs = true
 
 [params]
-favicon                      = "/img/favicon.ico"  
+noreadingtime = true
 
 [menu]
   [[menu.main]]
@@ -15,22 +15,16 @@ favicon                      = "/img/favicon.ico"
     weight = 100
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "bieren"
+    name = "Bieren"
+    url = "/bieren/"
     weight = 120
 
-      [[menu.main]]
-    identifier = "photos"
-    name = "Photos"
-    url = "/photos/"
-    weight = 130
-
-    [[menu.main]]
-      identifier = "Test"
-      name = "Test"
-      url = "/Test/"
-      weight = 140
+  [[menu.main]]
+    identifier = "Test"
+    name = "Test"
+    url = "/Test/"
+    weight = 140
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true

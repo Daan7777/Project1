@@ -1,9 +1,10 @@
 ---
 title: "Grolsch"
 date: "1615-05-11"
-draft: false
-tags: ["three"]
+description: "Grolsch bier"
 ---
+
+Groenlo, Gelderland
 
 Een van de oorspronkelijke bierbrouwers uit Twente was Peter Cuyper, schoonzoon van Neerfeldt, die in 1676 tot meester van het Grolsche brouwgilde werd benoemd. Cuyper overleed in 1684, waarna zijn nakomelingen het bedrijf voortzetten. Tot 1876 werd het bier gebrouwen in de binnenstad van Groenlo. In dat jaar bouwde brouwerij 'De Klok' een nieuwe brouwerij buiten de grachten. In 1895 werd die gekocht door Theo de Groen, telg uit een Zevenaarse brouwersfamilie.
 

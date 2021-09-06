@@ -1,9 +1,10 @@
 ---
 title: "Hertog jan"
 date: "1915-03-02"
-draft: false
-tags: [ "one" ]
+description: "Hertog jan bier"
 ---
+
+Arcen, Limburg
 
 Op 2 maart 1915 wordt Stoombierbrouwerij de Vriendenkring in Arcen opgericht door vier brouwers, Leopold Haffmans (Brouwerij de Roobeek), Gerard van Dijk (Brouwerij de Oranjeboom, Broekhuizenvorst), August Schraven (Brouwerij het Anker, Lottum) en Gerard van Soest. De brouwerij werd uitgerust met een stoommachine en brouwde, in tegenstelling met de gewoonte in die tijd, enkel bier van ondergisting, met de naam VK bier. Dit bier werd afgevuld in beugelflessen en houten vaten. Tijdens de Tweede Wereldoorlog had de brouwerij zwaar te lijden en in 1945 moest men beginnen met de wederopbouw. Maar door de crisis en een ondermaatse bierafzet kwam de brouwerij in de financiële problemen. In 1949 werden alle aandelen verkocht aan Bierbrouwerij de Drie Hoefijzers te Breda. De brouwerij en het merk VK Bier bleven bestaan en in 1956 werd de oude brouwerij gemoderniseerd en verbouwd.
 In 1968 werd, wederom wegens financiële problemen, Brouwerij de Drie Hoefijzers overgenomen door de Engelse brouwerijgroep Allied Breweries Limited. In oktober 1980 werd door de brouwerijgroep besloten de brouwerij in Arcen en de bottellijn in Helmond te sluiten.

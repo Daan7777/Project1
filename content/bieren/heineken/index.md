@@ -1,9 +1,10 @@
 ---
 title: "Heineken"
 date: "1864-02-15"
-draft: false
-tags: ["two"]
+description: "Heineken bier"
 ---
+
+Amsterdam, Noord-Holland
 
 Heineken NV is een Nederlandse multinational in de bier- en drankensector en is actief in ruim 190 landen (er zijn 195 landen op aarde). Heineken NV bezit 300 biermerken, met een totaal biervolume van meer dan 218 miljoen hectoliter (2017) behoort Heineken tot de grootste brouwerijen van de wereld, na het Belgische Anheuser-Busch InBev. Daarnaast is Heineken de grootste ciderproducent ter wereld. De productie vindt plaats in meer dan 140 brouwerijen in 71 landen. Daarnaast opereert Heineken via exportactiviteiten en licentiepartners. Ruim de helft van de afzet vindt plaats in Europa. Heineken had rond 2017 ongeveer 80.000 werknemers in dienst.
 Ontstaan
