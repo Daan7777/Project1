@@ -1,13 +1,16 @@
 {{ define "main" }}
-  <!-- Hoofd pagina -->
-
-<div class="container">
-  {{ $recentposts := 5 }}
-  {{ if .Params.recentposts }}
-    {{ $recentposts = .Params.recentposts }}
-  {{ end }}
-</div>
-<div class="container">
-    <h2 class="text-center">Recente posts</h2>
-</div>
+<head>
+	<meta charset="UTF-8">
+	<title>How to Create a Simple Website Layout using HTML CSS</title>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+	<div>
+	<section id="home">
+		<div class="content">
+			<h1>Brouwerij</h1>
+			<p>De beste drinkers drinken het, ‘s lands beste brouwers brouwen het.</p>
+		</div>
+	</section>
+</body>
 {{ end }}
