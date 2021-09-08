@@ -3,11 +3,9 @@
 <div class="container">
   <h1>{{ .Title }}</h1>
   <p class="lead">{{ .Content }}</p>
-
   <div class="row">
     {{ range .Resource.ByType "posts" }}
       {{ $image := .Fit "800x600" }}
-
       <div class="col-md-6 col-lg-4">
         <a href="{{ .RelPermalink }}"><img src="{{ $image.RelPermalink}}" class="img-fluid"></a>
       </div>
