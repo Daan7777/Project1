@@ -111,6 +111,12 @@ body {
 ,rgba(119, 125, 129, 0),rgba(130, 137, 141, 0.253),#5b676ea9 70%);
 }
 
+.header-overlay2 {
+  background: linear-gradient(
+-160deg
+,rgba(47, 48, 49, 0),rgba(60, 62, 63, 0.671),#35393b00 70%);
+}
+
 .pb-6, .py-6 {
     padding-bottom: 3.5rem!important;
 }
@@ -180,7 +186,9 @@ pt-6, .py-6 {
     color:#aaa;
     margin-bottom:0;
   }
+
 /* index css */
+
   html {
     scroll-behavior: smooth;
   }
@@ -234,7 +242,7 @@ pt-6, .py-6 {
   #home .content h1 {
     font-size: 60px;
     margin: 10px 0;
-    color: #fff;
+    color: rgb(255, 255, 255);
   }
   #home .content p {
     width: 50%;
